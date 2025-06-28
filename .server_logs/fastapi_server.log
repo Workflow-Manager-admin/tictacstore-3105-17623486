@@ -1,4 +1,49 @@
-INFO:     Started server process [1476]
+INFO:     Started server process [104]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46472 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46456 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:46468 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37262 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37262 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37262 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37262 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37262 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37288 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:37278 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51024 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51024 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51032 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51044 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51044 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.17.0.1:51044 - "GET /openapi.json HTTP/1.1" 200 OK
